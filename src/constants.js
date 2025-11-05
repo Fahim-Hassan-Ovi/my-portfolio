@@ -166,7 +166,7 @@ export const SkillsInfo = [
         "A full-stack library management system built with React, TypeScript, Redux Toolkit Query, Node.js, Express.js, and MongoDB. It enables users to view, add, edit, delete, and borrow books with real-time UI updates and a clean, responsive interface. Focused on core CRUD and borrowing functionality, Bookers ensures smooth RESTful API integration and a user-friendly experience.",
       image: bookers,
       tags: ["React JS", "Node.js", "MongoDB", "Express.js", "TypeScript", "Redux Toolkit Query", "Tailwind CSS"],
-      github: "https://github.com/Fahim-Hassan-Ovi/bookers-library-management-app-client/blob/main/README.md",
+      github: "https://github.com/Fahim-Hassan-Ovi/bookers-library-management-app-client",
       webapp: "http://localhost:5000/",
     },
     {
@@ -176,7 +176,7 @@ export const SkillsInfo = [
         "A single-page coupon collection web app where users can browse top brands, view exclusive deals, and copy coupon codes. It features Firebase authentication, private routes, brand search, and dynamic coupon management with a modern, responsive UI.",
       image: couponDigger,
       tags: ["React JS", "Firebase Auth", "Tailwind CSS", "DaisyUI"],
-      github: "https://github.com/Fahim-Hassan-Ovi/coupon-digger?tab=readme-ov-file#coupon-digger",
+      github: "https://github.com/Fahim-Hassan-Ovi/coupon-digger",
       webapp: "https://coupon-digger-c3ccf.web.app/",
     },
     {
@@ -206,7 +206,7 @@ export const SkillsInfo = [
         "Dragon News is a modern online newspaper platform built with React, Tailwind CSS, DaisyUI, and Firebase Authentication. Users can browse news by category, read full articles, and access premium content after authentication. The platform emphasizes responsive design, dynamic content fetching, and smooth user experience.",
       image: dragonNews,
       tags: ["React.js", "Tailwind CSS", "Firebase Auth", "JavaScript", "DaisyUI"],
-      github: "https://github.com/Fahim-Hassan-Ovi/dragon-news?tab=readme-ov-file",
+      github: "https://github.com/Fahim-Hassan-Ovi/dragon-news",
       webapp: "https://dragon-news-410c5.firebaseapp.com/category/01",
     },
   ];  
